@@ -1,0 +1,8 @@
+- project:
+    display-name: hi test1
+	jobs:
+	  - "{name}-app-build-agent"
+	name: mizfdsfsdfsd
+	repoName: "sample-test"
+	git project: "~Blue-bard"
+	
